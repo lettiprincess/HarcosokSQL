@@ -77,6 +77,7 @@
             this.letrehozas.TabIndex = 3;
             this.letrehozas.Text = "Létrehozás";
             this.letrehozas.UseVisualStyleBackColor = true;
+            this.letrehozas.Click += new System.EventHandler(this.letrehozas_Click);
             // 
             // groupBox1
             // 
